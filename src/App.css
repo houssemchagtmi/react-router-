@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background: linear-gradient(144deg, rgba(137,32,139,1) 1%, rgba(9,0,80,0.7461139896373057) 12%);
+  height:auto
+}
+.cards{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  /* align-content: space-around; */
+
+}
+ .card{
+  height: 736px;
+  margin: 15px 0;
+} 
+

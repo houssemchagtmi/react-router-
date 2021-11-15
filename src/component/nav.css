@@ -1,0 +1,12 @@
+.navsearch{
+    display: flex;
+    flex-direction: column;
+widht: 800px;
+height:200px;
+background-color: white;
+/* box-shadow: black 0 5px 15px; */
+margin-top:10px;
+overflow :hidden;
+overflow-y: auto;
+}
+.navsearch::-webkit-scrollbar{display: none;}
